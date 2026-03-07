@@ -13,7 +13,7 @@ local CONFIG = {
         "Maximum Scroll",
     },
 
-    HopDelay = 8,
+    HopDelay = 5.2,
     TeleportDelay = 2,
     AutoTeleport = true,
 }
