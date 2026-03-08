@@ -59,7 +59,7 @@ local CONFIG = {
         "technique_scroll",
     },
 
-    HopDelay = 8,
+    HopDelay = 5.5,
     TeleportDelay = 2,
     AutoTeleport = true,
 }
